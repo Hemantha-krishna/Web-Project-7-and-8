@@ -1,0 +1,31 @@
+.user-detail {
+    padding: 20px;
+    background-color: #fafafa;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    height: auto;
+  }
+  
+  .user-detail .user-info {
+    margin-bottom: 15px;
+  }
+  
+  .user-detail h5 {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .user-detail .user-description {
+    font-style: italic;
+    color: #555; 
+  }
+  
+  .user-detail .user-link {
+    margin-top: 20px;
+    display: block;
+    text-align: right;
+    font-weight: bold;
+    color: #3f51b5;
+  }
+  

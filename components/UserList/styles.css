@@ -1,0 +1,26 @@
+.user-list {
+  padding: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.user-list .MuiListItem-root {
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.user-list .MuiListItem-root:hover {
+  background-color: #473d3d;
+}
+
+.user-list .MuiListItem-root a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.user-list .MuiListItemText-primary {
+  font-weight: bold;
+}
+
+.user-list-divider {
+  margin: 10px 0;
+}
